@@ -32,7 +32,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the logos to learn more<br></br><br></br>
+        Click on the logo to learn more<br></br><br></br>
         Demo made using Vite + React
       </p>
     </>
