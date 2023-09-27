@@ -1,7 +1,7 @@
 import express from 'express';
-import logyardbe from 'logyard-be';
+import logyardbackend from 'logyardbackend';
 
-const { logyard } = logyardbe;
+const { logyard } = logyardbackend;
 
 
 
