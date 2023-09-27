@@ -15,9 +15,9 @@ function App() {
         <a href="https://www.logyard.io" target="_blank">
           <img src={namedLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://www.logyard.io" target="_blank">
+        {/* <a href="https://www.logyard.io" target="_blank">
           <img src={logo} className="logo react" alt="React logo" />
-        </a>
+        </a> */}
       </div>
       <h1> Demo</h1>
       <div className="card">
